@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning JavaScript, plataforma NodeJs and framework ReactJs
+- 🌱 I’m currently learning JavaScript, platform NodeJs and framework ReactJs
 - 😄 Pronouns: ele/dele
 
 <div>
